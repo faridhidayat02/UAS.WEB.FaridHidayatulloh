@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+}
+.form{
+    background-color: white;
+    padding: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
